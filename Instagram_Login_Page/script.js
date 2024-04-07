@@ -1,0 +1,1 @@
+// console.log("Hey there are you serieus to use vs cod eusing javascript and javascript is available at http://www.codeproject.codeproject.com/javascript/");
